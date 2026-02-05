@@ -46,10 +46,10 @@
         android:layout_height="@dimen/image_size_xxxlarge"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout3"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.499"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.202"
+        app:layout_constraintVertical_bias="0.203"
         app:srcCompat="@drawable/baseline_emoji_emotions_24" />
 
     <LinearLayout
@@ -74,7 +74,6 @@
             android:id="@+id/textView6"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_marginStart="@dimen/spacing_xxxlarge"
             android:layout_weight="1"
             android:gravity="center"
             android:text="@string/my_tg"
