@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">lab1</string>
+    <string name="app_name" translatable="false">firstApp</string>
+    <string name="my_name">Ilya Ostanin</string>
+    <string name="my_groupe">B23-191-3</string>
+    <string name="my_tg" translatable="false">\@ilyaOstt</string>
+
 </resources>

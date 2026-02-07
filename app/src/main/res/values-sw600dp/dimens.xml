@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_size_xxxlarge">210dp</dimen>
+    <dimen name="image_size_xxlarge">134dp</dimen>
+    <dimen name="image_size_xlarge">101dp</dimen>
+    <dimen name="image_size_large">78dp</dimen>
+    <dimen name="image_size_medium">67dp</dimen>
+    <dimen name="image_size_small">56dp</dimen>
+    <dimen name="image_size_xsmall">45dp</dimen>
+    <dimen name="image_size_xxsmall">34dp</dimen>
+
+    <dimen name="text_size_xlarge">36sp</dimen>
+    <dimen name="text_size_large">31sp</dimen>
+    <dimen name="text_size_medium">25sp</dimen>
+    <dimen name="text_size_normal">22sp</dimen>
+    <dimen name="text_size_small">20sp</dimen>
+    <dimen name="text_size_xsmall">17sp</dimen>
+
+    <dimen name="block_size_normal">73dp</dimen>
+
+    <dimen name="spacing_xxxlarge">90dp</dimen>
+    <dimen name="spacing_xxlarge">67dp</dimen>
+    <dimen name="spacing_xlarge">45dp</dimen>
+    <dimen name="spacing_large">34dp</dimen>
+    <dimen name="spacing_medium">22dp</dimen>
+    <dimen name="spacing_small">17dp</dimen>
+    <dimen name="spacing_xsmall">11dp</dimen>
+    <dimen name="spacing_xxsmall">6dp</dimen>
+    <dimen name="spacing_xxxsmall">3dp</dimen>
+</resources>
